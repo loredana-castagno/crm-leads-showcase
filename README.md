@@ -1,8 +1,8 @@
-# CRM — Leads module (code showcase)
+# CRM - Leads module (code showcase)
 
 Extracto **curado y de solo lectura** del módulo de **Leads** de un CRM comercial
 que construí (una herramienta interna de gestión comercial para una empresa de
-staff augmentation). Muestra cómo está resuelta una feature de punta a punta:
+staff augmentation y software consulting). Muestra cómo está resuelta una feature de punta a punta:
 captura de leads desde varias fuentes, listado con filtros y búsqueda, y la vista
 de detalle.
 
